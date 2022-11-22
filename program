@@ -1,4 +1,4 @@
 #pyhton
-fruits=["apple","banana","cherry","kiwi","mango"]
-fruits.remove("banana")
-print(fruits)
+whislist=["apple","banana","cherry","kiwi","mango"]
+whishlist.remove("banana")
+print(whishlist)
